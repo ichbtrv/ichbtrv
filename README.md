@@ -1,7 +1,10 @@
 ### I'm Ivan and I'm currently looking for a developer position!
+<br/>
 <img src ='https://i.imgur.com/iGraOAz.jpg' alt='me' />
+<br/>
+<br/>
 
-I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
+##I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
 <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /> 
 <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
 <img src="https://img.shields.io/badge/graphql-%23e10098.svg?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" />
@@ -14,8 +17,10 @@ I'm based in San Francisco and I love making music on the side. Here are some te
 <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 <img src="https://img.shields.io/badge/photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23e68619.svg?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
-
-Check Out Some Screens from my latest projects:
+<br/><br/>
+##Check Out Some Screens from my latest projects:
+<br/>
+<br/>
 <img src='https://i.imgur.com/778xDH5.png' alt='bart times app screenshot' />
 <img src='https://i.imgur.com/vJQA71o.png' alt='ccfeed app screenshot 1' />
 <img src='https://i.imgur.com/b0SmHLJ.png' alt='ccfeed app screenshot 2' />
