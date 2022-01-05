@@ -1,6 +1,6 @@
 # I'm Ivan and I'm currently looking for a developer position!
 <br/>
-<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='200'/>
+<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='300'/>
 <br/>
 <br/>
 
@@ -21,6 +21,6 @@
 <br/>
 
 # Check Out Some Screens from my latest projects:
-<img src='https://i.imgur.com/778xDH5.png' alt='bart times app screenshot' />
-<img src='https://i.imgur.com/vJQA71o.png' alt='ccfeed app screenshot 1' />
-<img src='https://i.imgur.com/b0SmHLJ.png' alt='ccfeed app screenshot 2' />
+<img src='https://i.imgur.com/778xDH5.png' alt='bart times app screenshot'  width='300'/>
+<img src='https://i.imgur.com/vJQA71o.png' alt='ccfeed app screenshot 1'  width='300'/>
+<img src='https://i.imgur.com/b0SmHLJ.png' alt='ccfeed app screenshot 2'  width='300'/>
