@@ -1,6 +1,6 @@
 # I'm Ivan and I'm currently looking for a developer position!
 <br/>
-<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me' />
+<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='200'/>
 <br/>
 <br/>
 
