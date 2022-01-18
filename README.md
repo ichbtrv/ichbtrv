@@ -1,4 +1,4 @@
-# I'm Ivan
+# I'm Ivan. Currently Looking for a dev job.
 <br/>
 <img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='300'/>
 <br/>
