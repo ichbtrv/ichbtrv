@@ -1,9 +1,10 @@
-# IvanC
+# IvanC - Currently open to work
 <br/>
 <img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='150'/>
+<br/>
 
-
-# I'm based in San Francisco and I love making music on the side. Here are some technologies I've wrked with:
+I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
+<br/><br/>
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
 <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /> 
 <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
