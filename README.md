@@ -1,8 +1,7 @@
 # IvanC
 <br/>
-<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='300'/>
-<br/>
-<br/>
+<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='150'/>
+
 
 # I'm based in San Francisco and I love making music on the side. Here are some technologies I've wrked with:
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
