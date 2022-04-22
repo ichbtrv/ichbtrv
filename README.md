@@ -31,6 +31,8 @@ I'm based in San Francisco and I love making music on the side. Here are some te
 <br/>
 
 # Check Out Some Screens from my latest projects:
+<img src='https://i.imgur.com/NFTJWxP.png' width='300' />
+<img src='https://imgur.com/YHdZoTY' width='300' />
 <img src='https://i.imgur.com/778xDH5.png' alt='bart times app screenshot'  width='300'/>
 <img src='https://i.imgur.com/vJQA71o.png' alt='ccfeed app screenshot 1'  width='300'/>
 <img src='https://i.imgur.com/b0SmHLJ.png' alt='ccfeed app screenshot 2'  width='300'/>
