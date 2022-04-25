@@ -1,8 +1,11 @@
-# IvanC - Currently open to work
-<br/>
-<img src ='https://i.imgur.com/iGraOAz.jpg' alt='me'  width='150'/>
-<br/>
+# Hey Im Ivan - Currently open to work
 
+<br/>
+Check out my portfolio site @ https://www.ichbtrv.com
+<img src="https://i.imgur.com/adbj4xM.png" alt='webpage' />
+
+Here is me:
+<img src="https://i.imgur.com/AxzHQPls.jpg" />
 I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
 <br/><br/>
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
