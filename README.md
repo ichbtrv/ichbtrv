@@ -1,9 +1,5 @@
 # Hey Im Ivan - Currently open to work
 
-<br/>
-Check out my portfolio site @ https://www.ichbtrv.com
-<img src="https://i.imgur.com/adbj4xM.png" alt='webpage' />
-
 Here is me:
 <img src="https://i.imgur.com/AxzHQPls.jpg" />
 I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
@@ -33,9 +29,46 @@ I'm based in San Francisco and I love making music on the side. Here are some te
 <br/>
 <br/>
 
-# Check Out Some Screens from my latest projects:
+## Check Out Some Screens from my latest projects:
+
+### Cocktail Search ###
+ 	
+  ---
+  
+<img src="https://i.imgur.com/8o2Q7Em.jpg" width="750"/>
+<img src="https://i.imgur.com/63qoNvH.jpg" width="750"/>
+
+
+### Voice to Text App ###
+
+ ---
+  
+<div>
 <img src='https://i.imgur.com/NFTJWxP.png' width='300' />
-<img src='https://imgur.com/YHdZoTY' width='300' />
+<img src='https://i.imgur.com/YHdZoTY.png' width='300' />
+  </div>
+  
+  ### Bart Train Times ### 
+  
+   ---
+   
+   
 <img src='https://i.imgur.com/778xDH5.png' alt='bart times app screenshot'  width='300'/>
+
+  
+  ### CCFeed - Social Video Platform ### 
+  
+   ---
+   
+   <div>
 <img src='https://i.imgur.com/vJQA71o.png' alt='ccfeed app screenshot 1'  width='300'/>
 <img src='https://i.imgur.com/b0SmHLJ.png' alt='ccfeed app screenshot 2'  width='300'/>
+  </div>
+
+<br/>
+
+  
+   ---
+   
+Check out my portfolio site @ https://www.ichbtrv.com
+<img src="https://i.imgur.com/adbj4xM.png" alt='webpage' />
