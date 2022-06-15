@@ -2,6 +2,8 @@
 
 **Check Out Some Screens from my latest projects:**
 
+<img src="https://i.imgur.com/rEAOqd6.jpg" width="750"/>
+<img src="https://i.imgur.com/fbNe4C3.jpg" width="750"/>
 
 ### LinkShare ###
  	
