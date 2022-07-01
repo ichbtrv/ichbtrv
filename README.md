@@ -2,17 +2,6 @@
 
 **Check Out Some Screens from my latest projects:**
 
-### Connect 4 vs ai ###
- 	
-  ---
-  
-
-<div>
-<img src="https://i.imgur.com/uAro2vK.jpg" width="300" />
-<img src="https://i.imgur.com/NkT8CiN.jpg" width="300" />
-<img src="https://i.imgur.com/hDuEn5E.jpg" width="300" />
-<img src="https://i.imgur.com/xLRTWlY.jpg" width="300" />
-</div>
 
 ### Sittee (map bookmarks) ###
  	
@@ -23,6 +12,19 @@
 <img src="https://i.imgur.com/wQ0IGmo.jpg" width="400"/>
 <img src="https://i.imgur.com/h0OnfHq.png" width="700"/>
 
+</div>
+
+
+### Connect 4 vs ai ###
+ 	
+  ---
+  
+
+<div>
+<img src="https://i.imgur.com/uAro2vK.jpg" width="300" />
+<img src="https://i.imgur.com/NkT8CiN.jpg" width="300" />
+<img src="https://i.imgur.com/hDuEn5E.jpg" width="300" />
+<img src="https://i.imgur.com/xLRTWlY.jpg" width="300" />
 </div>
 
 ### LinkShare ###
