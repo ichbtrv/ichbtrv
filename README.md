@@ -2,8 +2,28 @@
 
 **Check Out Some Screens from my latest projects:**
 
-<img src="https://i.imgur.com/rEAOqd6.jpg" width="750"/>
-<img src="https://i.imgur.com/fbNe4C3.jpg" width="750"/>
+### Connect 4 vs ai ###
+ 	
+  ---
+  
+
+<div>
+<img src="https://i.imgur.com/uAro2vK.jpg" width="300" />
+<img src="https://i.imgur.com/NkT8CiN.jpg" width="300" />
+<img src="https://i.imgur.com/hDuEn5E.jpg" width="300" />
+<img src="https://i.imgur.com/xLRTWlY.jpg" width="300" />
+</div>
+
+### Sittee (map bookmarks) ###
+ 	
+  ---
+  
+<div>
+<img src="https://i.imgur.com/jFryDkH.jpg" width="400"/>
+<img src="https://i.imgur.com/wQ0IGmo.jpg" width="400"/>
+<img src="https://i.imgur.com/h0OnfHq.png" width="700"/>
+
+</div>
 
 ### LinkShare ###
  	
