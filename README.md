@@ -1,19 +1,20 @@
 
 I'm based in San Francisco and I love making music on the side. Here are some technologies I've worked with:
 <br/><br/>
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+<img alt='Lit' src='https://img.shields.io/badge/Lit-100000?style=for-the-badge&logo=Lit&logoColor=white&labelColor=314ffe&color=black'/>
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
 <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /> 
+<img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=Vite&logoColor=white&labelColor=000000&color=FFF200'/>
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
 <img src="https://img.shields.io/badge/graphql-%23e10098.svg?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" />
 <img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge" alt="React" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/yarn-%232c8ebb.svg?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn" />
-<img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" />
-<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+<img alt='tailwindcss' src='https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=FFFFFF&color=000000'/>
+<img alt='pnpm' src='https://img.shields.io/badge/pnpm-100000?style=for-the-badge&logo=pnpm&logoColor=FFFFFF&labelColor=000000&color=FF059F'/>
 <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 <img src="https://img.shields.io/badge/photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23e68619.svg?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Prisma" />
